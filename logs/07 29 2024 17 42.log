@@ -1,0 +1,8 @@
+[ 2024-07-29 17:42:03,775 ] 24 src.logger.logging - INFO - Data Ingestion Started
+[ 2024-07-29 17:42:05,487 ] 68 src.logger.logging - INFO - Read train and test data completed
+[ 2024-07-29 17:42:05,487 ] 25 src.logger.logging - INFO - Data Transformation started
+[ 2024-07-29 17:47:07,929 ] 39 src.logger.logging - INFO - Fitting the model
+[ 2024-07-29 17:48:54,645 ] 39 src.logger.logging - INFO - Fitting the model
+[ 2024-07-29 17:49:22,106 ] 39 src.logger.logging - INFO - Fitting the model
+[ 2024-07-29 17:49:22,693 ] 67 src.logger.logging - INFO - Model Report: {'Random Forest': 0.8440137872819359, 'XGboost': 0.8567810917276308, 'Logistic': 0.8414462577377603}
+[ 2024-07-29 17:49:22,693 ] 76 src.logger.logging - INFO - Best model found, Model Name is XGboost, Accuracy Score: 0.8567810917276308
